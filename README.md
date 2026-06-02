@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, Nice meeting you! I'm Dinesh.<br><br>I’m a passionate Software Developer.<br><br>I enjoy solving problems, writing clean and efficient code, and building full-stack applications.<br>I have hands-on experience with JavaScript, Data Structures & Algorithms, and the MERN stack,<br>and I’ve worked on projects involving APIs, authentication, databases, and modern UI libraries.<br><br>Currently focused on improving my problem-solving skills and building scalable, user-friendly applications.<br><br>Open to entry-level Software Developer / SDE opportunities.
+Hi 👋, Nice meeting you! I'm Dinesh.<br><br>I’m a passionate Software Developer.<br><br>I enjoy solving problems, writing clean and efficient code, and building full stack applications.<br>I have hands on experience with JavaScript, Data Structures & Algorithms, and the MERN stack,<br>and I’ve worked on projects involving APIs, authentication, databases, and modern UI libraries.<br><br>Currently focused on improving my problem solving skills and building scalable, user friendly applications.<br><br>Open to entry level Software Developer / SDE opportunities.
 
 
 ## 🌐 Socials:
