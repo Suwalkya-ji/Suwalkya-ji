@@ -15,7 +15,8 @@ jobs:
         with:
           github_user_name: Suwalkya-ji
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
