@@ -232,29 +232,28 @@ Learning platform with role-based dashboards and course management features.
 
 ---
 
-## **GitHub Analytics**
+## 🚀 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Suwalkya-ji&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suwalkya-ji&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suwalkya-ji&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suwalkya-ji&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suwalkya-ji&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suwalkya-ji&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Suwalkya-ji&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Suwalkya-ji&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suwalkya-ji&theme=tokyo-night"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suwalkya-ji&theme=tokyo-night" />
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Suwalkya-ji/Suwalkya-ji/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="95%" src="https://raw.githubusercontent.com/Suwalkya-ji/Suwalkya-ji/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## **Current Focus**
