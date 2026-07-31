@@ -169,22 +169,7 @@ Learning platform with role-based dashboards and course management features.
 - DBMS  
 - Operating Systems  
 - Computer Networks  
-
----
-
-## **AI / ML**
-
-| Domain | Proficiency | Details |
-|--------|------------|--------|
-| Prompt Engineering | Intermediate | Structured prompt design for LLM outputs |
-| OpenAI APIs | Intermediate | API integration for AI features |
-| LLM Integration | Intermediate | Embedding AI in applications |
-| RAG | Intermediate | Retrieval-based systems |
-| Vector Databases | Intermediate | Embedding storage concepts |
-| Generative AI | Learning | Building AI-assisted workflows |
-| AI Agents | Learning | Autonomous system design |
-| AI Automation | Learning | Workflow automation using AI |
-
+- System Design
 ---
 
 ## **Achievements**
