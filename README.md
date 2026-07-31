@@ -177,32 +177,13 @@ Learning platform with role-based dashboards and course management features.
 | Domain | Proficiency | Details |
 |--------|------------|--------|
 | Prompt Engineering | Intermediate | Structured prompt design for LLM outputs |
+| OpenAI APIs | Intermediate | API integration for AI features |
+| LLM Integration | Intermediate | Embedding AI in applications |
+| RAG | Intermediate | Retrieval-based systems |
+| Vector Databases | Intermediate | Embedding storage concepts |
 | Generative AI | Learning | Building AI-assisted workflows |
-| OpenAI APIs | Learning | API integration for AI features |
-| LLM Integration | Learning | Embedding AI in applications |
-| AI Automation | Learning | Workflow automation using AI |
-| RAG | Learning | Retrieval-based systems |
-| Vector Databases | Learning | Embedding storage concepts |
 | AI Agents | Learning | Autonomous system design |
-
----
-
-## **Currently Learning**
-
-- Next.js  
-- TypeScript  
-- AWS  
-- Docker & Kubernetes  
-- CI/CD Pipelines  
-- Microservices Architecture  
-- System Design  
-- Redis  
-- GraphQL  
-- Generative AI  
-- LLM Applications  
-- LangChain  
-- RAG Systems  
-- AI Agents  
+| AI Automation | Learning | Workflow automation using AI |
 
 ---
 
