@@ -176,17 +176,7 @@ Learning platform with role-based dashboards and course management features.
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suwalkya-ji&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suwalkya-ji&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Suwalkya-ji&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suwalkya-ji&theme=tokyo-night" />
-</p>
 
 <p align="center">
   <img width="95%" src="https://raw.githubusercontent.com/Suwalkya-ji/Suwalkya-ji/output/github-contribution-grid-snake-dark.svg" />
@@ -196,11 +186,6 @@ Learning platform with role-based dashboards and course management features.
 ## **Current Focus**
 
 ```yaml
-Learning:
-  - AI Applications
-  - System Design
-  - Cloud (AWS)
-  - Distributed Systems
 
 Building:
   - Full Stack Systems
