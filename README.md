@@ -172,7 +172,7 @@ Learning platform with role-based dashboards and course management features.
 ## 🚀 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suwalkya-ji&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suwalkya-ji&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suwalkya-ji&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -181,7 +181,7 @@ Learning platform with role-based dashboards and course management features.
 <p align="center">
   <img width="95%" src="https://raw.githubusercontent.com/Suwalkya-ji/Suwalkya-ji/output/github-contribution-grid-snake-dark.svg" />
 </p>
----
+
 
 ## **Current Focus**
 
