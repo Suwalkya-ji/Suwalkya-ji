@@ -10,9 +10,6 @@
 
 ## **Full Stack Developer | MERN Stack Developer | Software Engineer**
 
-**Jaipur, Rajasthan, India**  
-**1+ Years Experience**
-
 <p align="left">
   <a href="mailto:dineshsuwalkya31@gmail.com"><img src="https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dinesh-suwalkya/"><img src="https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
