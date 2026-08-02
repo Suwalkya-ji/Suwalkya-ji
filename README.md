@@ -27,32 +27,6 @@ Focused on product engineering with strong attention to performance optimization
 
 ---
 
-## **Current Experience**
-
-### **Full Stack Developer**  
-**Netparam Technologies Pvt Ltd**  
-**March 2025 – April 2026**
-
-<p>
-<img src="https://img.shields.io/badge/React-0f0c29?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-302b63?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-24243e?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-8B5CF6?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-1f1f3a?style=flat"/>
-<img src="https://img.shields.io/badge/JWT-0f0c29?style=flat"/>
-<img src="https://img.shields.io/badge/Razorpay-302b63?style=flat"/>
-</p>
-
-- Built and deployed production-grade full stack applications serving real users  
-- Developed scalable React frontends and modular UI systems  
-- Designed and implemented **30+ REST APIs** for business workflows  
-- Optimized MongoDB queries and backend logic, reducing API response time by **75%**  (1.8s -> 450ms) 
-- Implemented secure authentication and payment integrations  
-- Built dashboards for analytics, bookings, and revenue tracking  
-- Worked in Agile teams with active involvement in code reviews, debugging, and production support  
-
----
-
 ## **Featured Projects**
 
 <details>
