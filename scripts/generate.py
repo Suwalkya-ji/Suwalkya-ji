@@ -248,16 +248,19 @@ TOOLS = [
     ]),
     ("Frontend", [
         ("brand", "react", "React"), ("brand", "nextdotjs", "Next.js"), ("brand", "redux", "Redux Toolkit"),
-        ("brand", "tailwindcss", "Tailwind CSS"), ("brand", "mui", "Material UI"), ("brand", "figma", "Figma"),
+        ("brand", "tailwindcss", "Tailwind CSS"), ("brand", "mui", "Material UI"), 
     ]),
     ("Backend", [
         ("brand", "nodedotjs", "Node.js"), ("brand", "express", "Express.js"), ("brand", "fastapi", "FastAPI"), ("icon", "plug", "REST APIs"),
-        ("brand", "jsonwebtokens", "JWT"), ("brand", "razorpay", "Razorpay"), ("brand", "clerk", "Clerk"),
-        ("brand", "cloudinary", "Cloudinary"), ("icon", "list-ordered", "BullMQ"),
+        ("brand", "jsonwebtokens", "JWT"), ("icon", "list-ordered", "BullMQ"),
+        # ("brand", "cloudinary", "Cloudinary"), 
+        # ("brand", "clerk", "Clerk"),
+        # ("brand", "razorpay", "Razorpay"), 
     ]),
     ("Databases", [
         ("brand", "mongodb", "MongoDB"), ("brand", "mysql", "MySQL"), ("brand", "postgresql", "PostgreSQL"), ("brand", "redis", "Redis"),
-        ("brand", "qdrant", "Qdrant Vector DB"), ("icon", "stopwatch", "Query Optimization"),
+        ("brand", "qdrant", "Qdrant Vector DB"), 
+        # ("icon", "stopwatch", "Query Optimization"),
     ]),
     ("AI", [
         ("icon", "sparkle-fill", "LLMs"), ("icon", "search", "RAG"), ("icon", "plug", "AI APIs"),
@@ -266,10 +269,10 @@ TOOLS = [
     ("Cloud & tools", [
         ("brand", "docker", "Docker"), ("brand", "amazonwebservices", "AWS"), ("brand", "vercel", "Vercel"),
         ("brand", "githubactions", "CI/CD"), ("brand", "git", "Git"), ("brand", "github", "GitHub"),
-        ("brand", "postman", "Postman"), ("brand", "jira", "Jira"), ("icon", "file-code", "VS Code"), ("icon", "rocket", "Antigravity"),
+        ("brand", "postman", "Postman"), ("brand", "jira", "Jira"), ("brand", "figma", "Figma"), ("icon", "file-code", "VS Code"), ("icon", "rocket", "Antigravity"),
     ]),
     ("Core", [
-        ("icon", "code", "DSA"), ("icon", "workflow", "System Design"), ("icon", "package", "OOP"),
+        ("icon", "code", "DSA"), ("icon", "workflow", "System Design"), ("icon", "package", "Object-Oriented Programming"),
         ("icon", "database", "DBMS"), ("icon", "terminal", "Operating Systems"), ("icon", "globe", "Computer Networks"),
     ]),
 ]
