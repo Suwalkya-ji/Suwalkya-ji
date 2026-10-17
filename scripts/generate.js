@@ -13,6 +13,7 @@ const OUT = fileURLToPath(new URL("../assets/", import.meta.url));
 // ── Banner ─────────────────────────────────────────────────────────────
 
 const PHRASES = [
+  "Software Engineer",
   "Full Stack Engineer",
   "React · Next.js · Node.js",
   "Shipping products end to end",
