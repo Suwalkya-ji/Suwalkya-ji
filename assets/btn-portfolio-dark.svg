@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="117" height="40" viewBox="0 0 117 40" fill="none">
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+@keyframes pulse { 0% { opacity: .6; transform: scale(1); } 100% { opacity: 0; transform: scale(2.4); } }
+.rise { opacity: 0; animation: rise .6s cubic-bezier(.25,.46,.45,.94) forwards; }
+.fade { opacity: 0; animation: fade .5s ease-out forwards; }
+.pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .rise, .fade { opacity: 1; }
+}
+</style>
+<defs></defs>
+<rect x=".5" y=".5" width="116" height="39" rx="8" fill="#212830" stroke="#3d444d"/><g transform="translate(16.0 12.0) scale(1.0)" fill="#9198a1"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"/></g><text x="42" y="25" font-size="14" font-weight="600" fill="#f0f6fc">Portfolio</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="40" viewBox="0 0 99 40" fill="none">
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+@keyframes pulse { 0% { opacity: .6; transform: scale(1); } 100% { opacity: 0; transform: scale(2.4); } }
+.rise { opacity: 0; animation: rise .6s cubic-bezier(.25,.46,.45,.94) forwards; }
+.fade { opacity: 0; animation: fade .5s ease-out forwards; }
+.pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .rise, .fade { opacity: 1; }
+}
+</style>
+<defs></defs>
+<rect x=".5" y=".5" width="98" height="39" rx="8" fill="#f6f8fa" stroke="#d1d9e0"/><g transform="translate(16.0 12.0) scale(1.0)" fill="#59636e"><path d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z"/></g><text x="42" y="25" font-size="14" font-weight="600" fill="#1f2328">Email</text>
+</svg>
