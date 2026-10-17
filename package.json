@@ -1,0 +1,11 @@
+{
+  "name": "suwalkya-ji",
+  "private": true,
+  "type": "module",
+  "description": "GitHub profile README card for Dinesh Suwalkya",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "buttons": "node scripts/generate.js",
+    "build": "node scripts/build.js"
+  }
+}

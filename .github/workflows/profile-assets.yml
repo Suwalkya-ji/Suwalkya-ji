@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["scripts/**", ".github/workflows/profile-assets.yml"]
+    paths: ["scripts/**", "package.json", ".github/workflows/profile-assets.yml"]
 
 permissions:
   contents: write
@@ -18,12 +18,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: "22"
 
       - name: Build profile card
-        run: python3 scripts/build.py --user Suwalkya-ji --out dist
+        run: node scripts/build.js --user Suwalkya-ji --out dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
